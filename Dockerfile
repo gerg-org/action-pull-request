@@ -1,4 +1,4 @@
-FROM alpine
+FROM ghcr.io/openzipkin/alpine
 
 LABEL \
   "name"="GitHub Pull Request Action" \
